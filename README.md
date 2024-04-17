@@ -8,3 +8,17 @@ List of libraries used in Python:
 -	Matplotlib
 -	Numpy
 -	Seaborn
+
+Objectives and steps
+
+With the use of specific data found in Adventure works we were tasked to answer the following questions: 
+
+1.	What is the regional sales in the best performing country?
+
+![image](https://github.com/HajiraHaja/AdventureWorks-2019-SQL-Python/assets/166501265/595ebbe4-7130-4815-a87d-48b6e62c51a3)
+
+![image](https://github.com/HajiraHaja/AdventureWorks-2019-SQL-Python/assets/166501265/255899dd-345d-44a0-a4c5-89fd21e21c4c)
+
+
+The data shows that the US was the best performing region out of all the countries listed. With the Southwest region, coming up as the top region for the US.  
+
